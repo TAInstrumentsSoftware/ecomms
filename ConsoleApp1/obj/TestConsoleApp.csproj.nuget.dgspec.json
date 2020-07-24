@@ -1,46 +1,41 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dev\\github\\ecomms\\ConsoleApp1\\TestConsoleApp.csproj": {}
+    "C:\\Users\\Mark Grehlinger\\Source\\Repos\\ecomms\\ConsoleApp1\\TestConsoleApp.csproj": {}
   },
   "projects": {
-    "D:\\dev\\github\\ecomms\\ConsoleApp1\\TestConsoleApp.csproj": {
+    "C:\\Users\\Mark Grehlinger\\Source\\Repos\\ecomms\\ConsoleApp1\\TestConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dev\\github\\ecomms\\ConsoleApp1\\TestConsoleApp.csproj",
+        "projectUniqueName": "C:\\Users\\Mark Grehlinger\\Source\\Repos\\ecomms\\ConsoleApp1\\TestConsoleApp.csproj",
         "projectName": "TestConsoleApp",
-        "projectPath": "D:\\dev\\github\\ecomms\\ConsoleApp1\\TestConsoleApp.csproj",
-        "packagesPath": "C:\\Users\\objec\\.nuget\\packages\\",
-        "outputPath": "D:\\dev\\github\\ecomms\\ConsoleApp1\\obj\\",
+        "projectPath": "C:\\Users\\Mark Grehlinger\\Source\\Repos\\ecomms\\ConsoleApp1\\TestConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\Mark Grehlinger\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mark Grehlinger\\Source\\Repos\\ecomms\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\objec\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Mark Grehlinger\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "\\\\10.53.2.11\\hearth\\TacoCo\\NuGet": {},
+          "\\\\fortress\\Hearth\\Tacoco\\NuGet": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "D:\\dev\\github\\ecomms\\ECOMMS_Client\\ECOMMS_Client.csproj": {
-                "projectPath": "D:\\dev\\github\\ecomms\\ECOMMS_Client\\ECOMMS_Client.csproj"
+              "C:\\Users\\Mark Grehlinger\\Source\\Repos\\ecomms\\ECOMMS_Client\\ECOMMS_Client.csproj": {
+                "projectPath": "C:\\Users\\Mark Grehlinger\\Source\\Repos\\ecomms\\ECOMMS_Client\\ECOMMS_Client.csproj"
               },
-              "D:\\dev\\github\\ecomms\\ECOMMS_Manager\\ECOMMS_Manager.csproj": {
-                "projectPath": "D:\\dev\\github\\ecomms\\ECOMMS_Manager\\ECOMMS_Manager.csproj"
+              "C:\\Users\\Mark Grehlinger\\Source\\Repos\\ecomms\\ECOMMS_Manager\\ECOMMS_Manager.csproj": {
+                "projectPath": "C:\\Users\\Mark Grehlinger\\Source\\Repos\\ecomms\\ECOMMS_Manager\\ECOMMS_Manager.csproj"
               },
-              "D:\\dev\\github\\ecomms\\ECOMMS_Participant\\ECOMMS_Participant.csproj": {
-                "projectPath": "D:\\dev\\github\\ecomms\\ECOMMS_Participant\\ECOMMS_Participant.csproj"
+              "C:\\Users\\Mark Grehlinger\\Source\\Repos\\ecomms\\ECOMMS_Participant\\ECOMMS_Participant.csproj": {
+                "projectPath": "C:\\Users\\Mark Grehlinger\\Source\\Repos\\ecomms\\ECOMMS_Participant\\ECOMMS_Participant.csproj"
               }
             }
           }
@@ -75,37 +70,32 @@
         }
       }
     },
-    "D:\\dev\\github\\ecomms\\ECOMMS_Client\\ECOMMS_Client.csproj": {
+    "C:\\Users\\Mark Grehlinger\\Source\\Repos\\ecomms\\ECOMMS_Client\\ECOMMS_Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dev\\github\\ecomms\\ECOMMS_Client\\ECOMMS_Client.csproj",
+        "projectUniqueName": "C:\\Users\\Mark Grehlinger\\Source\\Repos\\ecomms\\ECOMMS_Client\\ECOMMS_Client.csproj",
         "projectName": "ECOMMS_Client",
-        "projectPath": "D:\\dev\\github\\ecomms\\ECOMMS_Client\\ECOMMS_Client.csproj",
-        "packagesPath": "C:\\Users\\objec\\.nuget\\packages\\",
-        "outputPath": "D:\\dev\\github\\ecomms\\ECOMMS_Client\\obj\\",
+        "projectPath": "C:\\Users\\Mark Grehlinger\\Source\\Repos\\ecomms\\ECOMMS_Client\\ECOMMS_Client.csproj",
+        "packagesPath": "C:\\Users\\Mark Grehlinger\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mark Grehlinger\\Source\\Repos\\ecomms\\ECOMMS_Client\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\objec\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Mark Grehlinger\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "\\\\10.53.2.11\\hearth\\TacoCo\\NuGet": {},
+          "\\\\fortress\\Hearth\\Tacoco\\NuGet": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "D:\\dev\\github\\ecomms\\ECOMMS_Entity\\ECOMMS_Entity.csproj": {
-                "projectPath": "D:\\dev\\github\\ecomms\\ECOMMS_Entity\\ECOMMS_Entity.csproj"
+              "C:\\Users\\Mark Grehlinger\\Source\\Repos\\ecomms\\ECOMMS_Entity\\ECOMMS_Entity.csproj": {
+                "projectPath": "C:\\Users\\Mark Grehlinger\\Source\\Repos\\ecomms\\ECOMMS_Entity\\ECOMMS_Entity.csproj"
               }
             }
           }
@@ -140,30 +130,25 @@
         }
       }
     },
-    "D:\\dev\\github\\ecomms\\ECOMMS_Entity\\ECOMMS_Entity.csproj": {
+    "C:\\Users\\Mark Grehlinger\\Source\\Repos\\ecomms\\ECOMMS_Entity\\ECOMMS_Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dev\\github\\ecomms\\ECOMMS_Entity\\ECOMMS_Entity.csproj",
+        "projectUniqueName": "C:\\Users\\Mark Grehlinger\\Source\\Repos\\ecomms\\ECOMMS_Entity\\ECOMMS_Entity.csproj",
         "projectName": "ECOMMS_Entity",
-        "projectPath": "D:\\dev\\github\\ecomms\\ECOMMS_Entity\\ECOMMS_Entity.csproj",
-        "packagesPath": "C:\\Users\\objec\\.nuget\\packages\\",
-        "outputPath": "D:\\dev\\github\\ecomms\\ECOMMS_Entity\\obj\\",
+        "projectPath": "C:\\Users\\Mark Grehlinger\\Source\\Repos\\ecomms\\ECOMMS_Entity\\ECOMMS_Entity.csproj",
+        "packagesPath": "C:\\Users\\Mark Grehlinger\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mark Grehlinger\\Source\\Repos\\ecomms\\ECOMMS_Entity\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\objec\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Mark Grehlinger\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "\\\\10.53.2.11\\hearth\\TacoCo\\NuGet": {},
+          "\\\\fortress\\Hearth\\Tacoco\\NuGet": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -205,40 +190,35 @@
         }
       }
     },
-    "D:\\dev\\github\\ecomms\\ECOMMS_Manager\\ECOMMS_Manager.csproj": {
+    "C:\\Users\\Mark Grehlinger\\Source\\Repos\\ecomms\\ECOMMS_Manager\\ECOMMS_Manager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dev\\github\\ecomms\\ECOMMS_Manager\\ECOMMS_Manager.csproj",
+        "projectUniqueName": "C:\\Users\\Mark Grehlinger\\Source\\Repos\\ecomms\\ECOMMS_Manager\\ECOMMS_Manager.csproj",
         "projectName": "ECOMMS_Manager",
-        "projectPath": "D:\\dev\\github\\ecomms\\ECOMMS_Manager\\ECOMMS_Manager.csproj",
-        "packagesPath": "C:\\Users\\objec\\.nuget\\packages\\",
-        "outputPath": "D:\\dev\\github\\ecomms\\ECOMMS_Manager\\obj\\",
+        "projectPath": "C:\\Users\\Mark Grehlinger\\Source\\Repos\\ecomms\\ECOMMS_Manager\\ECOMMS_Manager.csproj",
+        "packagesPath": "C:\\Users\\Mark Grehlinger\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mark Grehlinger\\Source\\Repos\\ecomms\\ECOMMS_Manager\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\objec\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Mark Grehlinger\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "\\\\10.53.2.11\\hearth\\TacoCo\\NuGet": {},
+          "\\\\fortress\\Hearth\\Tacoco\\NuGet": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "D:\\dev\\github\\ecomms\\ECOMMS_Client\\ECOMMS_Client.csproj": {
-                "projectPath": "D:\\dev\\github\\ecomms\\ECOMMS_Client\\ECOMMS_Client.csproj"
+              "C:\\Users\\Mark Grehlinger\\Source\\Repos\\ecomms\\ECOMMS_Client\\ECOMMS_Client.csproj": {
+                "projectPath": "C:\\Users\\Mark Grehlinger\\Source\\Repos\\ecomms\\ECOMMS_Client\\ECOMMS_Client.csproj"
               },
-              "D:\\dev\\github\\ecomms\\ECOMMS_Entity\\ECOMMS_Entity.csproj": {
-                "projectPath": "D:\\dev\\github\\ecomms\\ECOMMS_Entity\\ECOMMS_Entity.csproj"
+              "C:\\Users\\Mark Grehlinger\\Source\\Repos\\ecomms\\ECOMMS_Entity\\ECOMMS_Entity.csproj": {
+                "projectPath": "C:\\Users\\Mark Grehlinger\\Source\\Repos\\ecomms\\ECOMMS_Entity\\ECOMMS_Entity.csproj"
               }
             }
           }
@@ -273,37 +253,32 @@
         }
       }
     },
-    "D:\\dev\\github\\ecomms\\ECOMMS_Participant\\ECOMMS_Participant.csproj": {
+    "C:\\Users\\Mark Grehlinger\\Source\\Repos\\ecomms\\ECOMMS_Participant\\ECOMMS_Participant.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dev\\github\\ecomms\\ECOMMS_Participant\\ECOMMS_Participant.csproj",
+        "projectUniqueName": "C:\\Users\\Mark Grehlinger\\Source\\Repos\\ecomms\\ECOMMS_Participant\\ECOMMS_Participant.csproj",
         "projectName": "ECOMMS_Participant",
-        "projectPath": "D:\\dev\\github\\ecomms\\ECOMMS_Participant\\ECOMMS_Participant.csproj",
-        "packagesPath": "C:\\Users\\objec\\.nuget\\packages\\",
-        "outputPath": "D:\\dev\\github\\ecomms\\ECOMMS_Participant\\obj\\",
+        "projectPath": "C:\\Users\\Mark Grehlinger\\Source\\Repos\\ecomms\\ECOMMS_Participant\\ECOMMS_Participant.csproj",
+        "packagesPath": "C:\\Users\\Mark Grehlinger\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mark Grehlinger\\Source\\Repos\\ecomms\\ECOMMS_Participant\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\objec\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Mark Grehlinger\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "\\\\10.53.2.11\\hearth\\TacoCo\\NuGet": {},
+          "\\\\fortress\\Hearth\\Tacoco\\NuGet": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "D:\\dev\\github\\ecomms\\ECOMMS_Entity\\ECOMMS_Entity.csproj": {
-                "projectPath": "D:\\dev\\github\\ecomms\\ECOMMS_Entity\\ECOMMS_Entity.csproj"
+              "C:\\Users\\Mark Grehlinger\\Source\\Repos\\ecomms\\ECOMMS_Entity\\ECOMMS_Entity.csproj": {
+                "projectPath": "C:\\Users\\Mark Grehlinger\\Source\\Repos\\ecomms\\ECOMMS_Entity\\ECOMMS_Entity.csproj"
               }
             }
           }
